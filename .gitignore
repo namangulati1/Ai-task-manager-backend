@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+package-lock.json
+
+# Production build output
+dist/
+build/
+
+# Environment Files
+.env
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# Temporary files
+tmp/
+temp/
